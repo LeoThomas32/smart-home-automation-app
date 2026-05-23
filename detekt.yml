@@ -1,0 +1,12 @@
+naming:
+  FunctionNaming:
+    ignoreAnnotated:
+      - Composable
+
+style:
+  MagicNumber:
+    active: false
+
+complexity:
+  LongMethod:
+    active: false
