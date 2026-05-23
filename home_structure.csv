@@ -1,0 +1,9 @@
+username,house_id,house_name,country,state,city,floor_id,floor_name,room_id,room_name,device_id,device_name,device_type,status
+testuser,house1,Test Home,India,Kerala,Kannur,floor1,Ground Floor,room1,Living Room,light1,Light,light,OFF
+ajay,ajay_united_2868,ajay united,India,kerala,telicherry,,,,,,,,
+ajay,ajay_united_2868,ajay united,,,,f1_f0b6,f1,,,,,,
+ajay,ajay_united_2868,ajay united,,,,f1_f0b6,f1,r1_18b3,r1,,,,
+ajay,ajay_united_2868,ajay united,,,,f1_f0b6,f1,r1_18b3,r1,l1_4569,l1,light,ON
+ajay,ajay_united_2868,ajay united,,,,f1_f0b6,f1,r1_18b3,r1,faaaah_1099,faaaah,fan,ON
+saji,saji_house_584c,saji house,india,kerala,kannur,,,,,,,,
+leo,rthrthrt_571c,rthrthrt,regerg,rgg,rgerg,,,,,,,,

@@ -1,0 +1,2 @@
+username,house_id,house_name,country,state,city,floor_id,floor_name,room_id,room_name,device_id,device_name,device_type,status
+testuser,house1,Test Home,India,Kerala,Kannur,floor1,Ground Floor,room1,Living Room,light1,Light,light,OFF
